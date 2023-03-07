@@ -1,0 +1,3 @@
+You are given an array points where points[i] = [x, y], is the coordinate of the ith point on the 2D plane.  Multiple points can have the same coordinate.
+
+You are also given an array queries where queries[i] = [u, v], is the coordinate of the center of the ith query region.  Each query region is circular, and the points inside the region are located on the border of the region.  Find the number of points that lie inside the ith query region.

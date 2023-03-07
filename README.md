@@ -29,6 +29,7 @@ A collection of exercises to help improve your understanding of algorithms and d
 1. [Two Sum](two-sum/index.md)
 2. [Reverse Integer](reverse-integer/index.md)
 3. [Palindrome Number](palindrome-number/index.md)
+4. [query-on-number-of-points-inside-a-circle](query-on-number-of-points-inside-a-circle/index.md)
 
 
 
